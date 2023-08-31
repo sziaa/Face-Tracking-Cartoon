@@ -1,5 +1,5 @@
 # Face-Tracking-Cartoon
-Aang from Avatar: The Last Airbender has eyes that track your movements through your screen camera and when you come to close the image changes into an attack image. A demon image is uploaded in the repository
+This project aims to have the character Aang from Avatar: The Last Airbender's eyes track your movements through your screen camera and when you come too close, the image changes into an attack image. A demo image is uploaded in the repository.
 
 Requirments:
 
