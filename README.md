@@ -1,5 +1,5 @@
 # Face-Tracking-Cartoon
-This project aims to have the character Aang from Avatar: The Last Airbender's eyes track your movements through your screen camera and when you come too close, the image changes into an attack image. A demo image is uploaded in the repository.
+This project aims to have the character Aang from Avatar: The Last Airbender's eyes track your movements through your screen camera and when you come too close, the image changes into an attack image. A demo video of the final result is uploaded in the repository.
 
 Requirments:
 
