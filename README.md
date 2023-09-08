@@ -15,7 +15,5 @@ Clone the repository and run avatar_face_tracking. You can recreate this with a 
 
 References:
 
-Sulaim Shaikh, Kaggle: https://www.kaggle.com/code/sulaimshaikh/anime-recommendation-project
+Aditya Khadilkar, Face-tracking-with-Anime-characters, Githib Repository: https://github.com/Aditya-Khadilkar/Face-tracking-with-Anime-characters/tree/master
 
-
-Bastain Bagas, Kaggle: https://www.kaggle.com/code/bastianbagas/starter-anime-recommendations-database-d0ac17ee-d
