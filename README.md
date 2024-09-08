@@ -4,7 +4,7 @@ This project aims to have the character Aang from Avatar: The Last Airbender's e
 [![Demo](https://img.youtube.com/vi/ZF__6LuY3GM/0.jpg)](https://www.youtube.com/watch?v=ZF__6LuY3GM&ab_channel=SehrishZia)
 
 
-Requirments:
+# Requirments:
 
 - Python 3.5 or above
 - OpenCV
